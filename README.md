@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Lua, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KonstantinosChr](https://github.com/KonstantinosChr)
+- I also have contributed in a lot of GTA V Roleplay Servers based in Lua
 
 - ⚡ Fun fact **I think my code works**
 
