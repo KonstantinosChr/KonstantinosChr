@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konstantinoschr&label=Profile%20views&color=0e75b6&style=flat" alt="konstantinoschr" /> </p>
 
-- 🔭 I’m currently working on **Photo Booth Project**
-
-- 🌱 I’m currently learning **C, Python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/KonstantinosChr](https://github.com/KonstantinosChr)
 
 - ⚡ Fun fact **I think my code works**
