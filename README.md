@@ -16,7 +16,6 @@
 <h3 align="left">Languages & Most Used:</h3>
 
 <p align="left">
-  <!-- Top Languages Card (Υπολογίζει αυτόματα τα ποσοστά από τα δημόσια repos) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosChr&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p>
 
