@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student from Greece</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=konstantinoschr&label=Profile%20views&color=0e75b6&style=flat" alt="konstantinoschr" />
+  <img src="https://komarev.com/ghpvc/?username=KonstantinosChr&label=Profile%20views&color=0e75b6&style=flat" alt="KonstantinosChr" />
 </p>
 
 - 🔭 I’m currently a Computer Science student at the **University of Crete (CSD UoC)**.
