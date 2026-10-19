@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student from Greece</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KonstantinosChr&label=Profile%20views&color=0e75b6&style=flat" alt="KonstantinosChr" />
+  <img src="https://komarev.com/ghpvc/?username=KonstantinosChr&amp;label=Profile+views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
 </p>
 
 - 🔭 I’m currently a Computer Science student at the **University of Crete (CSD UoC)**.
@@ -12,11 +12,10 @@
 - ⚡ Fun fact: **I think my code works**
 
 ---
-
-<h3 align="left">Languages & Most Used:</h3>
+<h3 align="left">Most Used Languages:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosChr&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KonstantinosChr&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;langs_count=8" alt="Most Used Languages" />
 </p>
 
 <p align="left">
